@@ -54,9 +54,8 @@ File: training_deep_learning_model.ipynb
 ### *3. Topic Modeling*  
 - Used BERTopic to identify and name topics within reviews.  
 - Mapped topics to genres such as Horror, Comedy, Drama, etc.  
-- Visualized the distribution of topics and analyzed genre-wise reviews.  
-
-File: topic_modeling.ipynb  
+- Visualized the distribution of topics and analyzed genre-wise reviews.
+  File: topic_modeling.ipynb   
 ---
 ## *Results*  
 1. *Sentiment Analysis:*  
