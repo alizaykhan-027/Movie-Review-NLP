@@ -59,8 +59,8 @@ File: training_deep_learning_model.ipynb
 ---
 ## *Results*  
 1. *Sentiment Analysis:*  
-   - Achieved X% accuracy with traditional models.  
-   - Achieved Y% accuracy with deep learning models.  
+   - Achieved 86% accuracy with traditional models.  
+   - Achieved 86% accuracy with deep learning models.  
 
 2. *Topic Modeling:*  
    - Identified and visualized key topics and mapped them to genres.  
